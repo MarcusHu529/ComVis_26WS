@@ -1,0 +1,22 @@
+
+# CMake generated files
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio / VS Code local configuration
+.vs/
+.vscode/
+
+# Local image datasets
+data/
+
+# Compiled artifacts
+*.exe
+*.obj
+*.pdb
+*.dll
+
+# Operating system files
+Thumbs.db
+.DS_Store
